@@ -67,5 +67,16 @@ subtitle = ""
  css_class = ""
 +++
 
-Zhang, H., Zhang, L., Yuan, F., Bian, G. B., & Xin, S. (2019, July). Target Location and Gait Planning for Humanoid Robot Climbing Stairs. In *2019 IEEE 4th International Conference on Advanced Robotics and Mechatronics (ICARM)* (pp. 888-893). IEEE.
+**Journal Papers:**
 
+[1] Lei Zhang, Huayan Zhang, Hanting Yang, Gui-Bin Bian, & Wanqing Wu. “Multi–target detection and grasping control for humanoid robot NAO,” *International Journal of Adaptive Control and Signal Processing*, vol. 33, no. 7, pp. 1225–1237, 2019.
+[2] Lei Zhang, Huayan Zhang, Ning Xiao, Tianwei Zhang, & Gui-Bin Bian. “Gait planning and control method for humanoid robot using improved target positioning ,” *SCIENCE CHINA Information Sciences*, vol. 63, no. 7, pp. 170210, 2020.
+
+**Conference Papers:**
+
+[1] Tianwei Zhang, Huayan Zhang, Yang Li, Yoshihiko Nakamura, & Lei Zhang. “FlowFusion: Dynamic Dense RGB-D SLAM Based on Optical Flow,” in *Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)*, Paris, France, 2020.
+[2] Huayan Zhang, Tianwei Zhang, Yang Li, Lei Zhang, & Wanpeng Wang. “Object Mobility Classification based Visual SLAM in Dynamic Environments,” in *Proceedings of the IEEE International Conference on Ubiquitous Robots (UR)*, Kyoto, Japan, 2020.
+[3] Huayan Zhang, Tianwei Zhang & Lei Zhang. “Model-based Dynamic Human Tracking and Reconstruction During Dynamic SLAM,” in *the CISM IFToMM Symposium on Robot Design, Dynamics and Control (ROMANSY)*, Sapporo, Japan, 2020.
+[4] Huayan Zhang, Lei Zhang, Fei Yuan, Gui-Bin Bian, & Shan Xin. “Target Location and Gait Planning for Humanoid Robot Climbing Stairs ,” in *Proceedings of the IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, Osaka, Japan, 2019.
+[5] Fei Yuan, Lei Zhang, Huayan Zhang, Dezhong Li, & Tianwei Zhang. “Distributed Teleoperation System for Controlling Heterogeneous Robots Based on ROS,” in *Proceedings of the IEEE International Conference on Advanced Robotics and its Social Impacts (ARSO)*, Beijing, China, 2019.
+[6] Jiayuan Yu, Huiling Liu, & Huayan Zhang. “Research on Detection and Recognition Algorithm of Road Traffic Signs,” in *Proceedings of the Chinese Control And Decision Conference (CCDC)*, Nanchang, China, 2019.
