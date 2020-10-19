@@ -67,5 +67,5 @@ subtitle = ""
  css_class = ""
 +++
 
-
+Zhang, H., Zhang, L., Yuan, F., Bian, G. B., & Xin, S. (2019, July). Target Location and Gait Planning for Humanoid Robot Climbing Stairs. In *2019 IEEE 4th International Conference on Advanced Robotics and Mechatronics (ICARM)* (pp. 888-893). IEEE.
 
