@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Huayan Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Intern
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include SLAM, deep learning and humanoid robot.
 
 interests:
 - Artificial Intelligence
