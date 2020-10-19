@@ -69,7 +69,19 @@ subtitle = ""
 
 **Journal Papers:**
 
-[1] [Lei Zhang, Huayan Zhang, Hanting Yang, Gui-Bin Bian, & Wanqing Wu. “Multi–target detection and grasping control for humanoid robot NAO,” *International Journal of Adaptive Control and Signal Processing*, vol. 33, no. 7, pp. 1225–1237, 2019.](http:://www.baidu.com)
+Multi–target detection and grasping control for humanoid robot NAO.
+
+
+
+Lei Zhang, Huayan Zhang, Hanting Yang, Gui-Bin Bian, & Wanqing Wu. 
+
+
+
+*International Journal of Adaptive Control and Signal Processing*, vol. 33, no. 7, pp. 1225–1237, 2019.
+
+
+
+
 
 [2] Lei Zhang, Huayan Zhang, Ning Xiao, Tianwei Zhang, & Gui-Bin Bian. “Gait planning and control method for humanoid robot using improved target positioning ,” *SCIENCE CHINA Information Sciences*, vol. 63, no. 7, pp. 170210, 2020.
 
